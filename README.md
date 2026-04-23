@@ -56,24 +56,8 @@ The **full version** includes:
 
 ---
 
-## 📂 Folder Structure
-
-frontend/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── admin/
-│ ├── assets/
-│ ├── hooks/
-│ ├── utils/
-│ └── App.jsx
-├── public/
-├── index.html
-├── package.json
-└── vite.config.js
-
-
----
+```
+for full repo or full project including frontend backend contact dev (Waleed Khokhar).
 
 ## ▶️ Run Locally
 
